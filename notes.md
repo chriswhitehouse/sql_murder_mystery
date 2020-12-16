@@ -188,7 +188,7 @@ Where person_id in (78881, 99716)
 
 Clue:
 |person_id	|event_id|	event_name|	date|
-|---|-----|----------|------------|------|
+|--------|----------|------------|------|
 |99716|	1143|	SQL Symphony Concert|	20171206|
 |99716|	1143	|SQL Symphony Concert|	20171212|
 |99716|	1143|	SQL Symphony Concert|	20171229|
